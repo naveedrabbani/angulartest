@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html'
 })
 export class AppComponent {
-  title = 'Naveeds Angular Test';
+  title = 'Naveeds Angular2 Test for Azure';
 }
